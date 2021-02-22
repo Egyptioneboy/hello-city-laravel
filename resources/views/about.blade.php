@@ -5,13 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Hello City</title>
+     </head>
+     <body >
+  <p>Built with &hearts; by LES TEACHERS DU NET.</p>
 
-        </head>
-    <body >
-    <h1>Hello from Paris!</h1>
-    <p>It's currently {{ date('h:i A' ) }}.</p>
+ 
+  <p><a href="/">Revenir à la page d'accueil</a></p>
+    
     <footer>
-    <p>&copy; Copyright {{ date('Y' )}} &middot;<a href="/about-us">About Us</a></p>
+           <p>&copy; Copyright {{ date('Y' )}} &middot; <a href="/about-us">About Us</a></p>
     </footer>
     </body>
 </html>
