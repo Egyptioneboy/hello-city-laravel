@@ -2,7 +2,7 @@
 
 @section('title', 'About Us |' .config('app.name'))
 
-
+<img src="/imageslaravel/paris.jpg" alt="paris">
 @section('content')
  <p>Built with &hearts; by LES TEACHERS DU NET.</p>
 
