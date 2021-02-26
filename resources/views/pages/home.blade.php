@@ -2,7 +2,7 @@
 
 @section('title', env('APP_NAME'))
 
-<img src="/imageslaravel/flagFrance.jpg" alt="franceFlag">
+<img src="{{asset('imageslaravel/flagFrance.jpg')}}" alt="franceFlag">
 
     @section('content')
 
