@@ -3,7 +3,7 @@
 @section('title', env('APP_NAME'))
 @section('content')
 
-       <img src="{{asset('imageslaravel/flagFrance.jpg')}}" alt="franceFlag" class=rounded my-12 shadow-md h-32>
+       <img src="{{asset('imageslaravel/flagFrance.jpg')}}" alt="franceFlag" class=rounded mt-12 shadow-md h-32>
 
 
 

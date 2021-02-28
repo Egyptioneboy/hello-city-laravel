@@ -11,8 +11,8 @@ shadow-md">
  </h2>
 
   <p>
-  <a href="{{route('home')}}" class="text-indigo-400 hover:text-indigo-700 underline">
-  Revenir à la page d'accueil</a>
+      <a href="{{route('home')}}" class="text-indigo-400 hover:text-indigo-700 underline">
+      Revenir à la page d'accueil</a>
   </p>
 @endsection
 
