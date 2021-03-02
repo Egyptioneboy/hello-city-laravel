@@ -1,6 +1,6 @@
-@extends('app')
+@extends('layouts/app', ['title' =>  'About Us'])
 
-@section('title', 'About Us |' .config('app.name'))
+
 @section('content')
 <img src="{{asset('imageslaravel/paris.jpg') }}" alt="paris" class="my-12 rounded-full 
 shadow-md">
