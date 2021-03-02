@@ -6,7 +6,8 @@
 
         <title>{{ page_title($title ?? null) }}</title>
 
-        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+        <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel=
+        "stylesheet">
     </head>
     <body class="py-6 flex flex-col justify-between items-center min-h-screen ">
        
